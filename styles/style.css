@@ -15,7 +15,6 @@ body {
 
 #apple-stock-chart .line {
   fill: none;
-  stroke: steelblue;
   stroke-width: 1.5px;
 }
 
@@ -27,4 +26,13 @@ body {
 #apple-stock-chart .focus circle {
   fill: none;
   stroke: steelblue;
+}
+
+#apple-stock-chart .line {
+    stroke: steelblue;
+}
+
+.chart-container {
+  color:red;
+  border: 5px solid black;
 }
