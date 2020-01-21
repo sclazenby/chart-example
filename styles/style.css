@@ -28,11 +28,10 @@ body {
   stroke: steelblue;
 }
 
-#apple-stock-chart .line {
-    stroke: steelblue;
+#apple-stock-chart {
+  border: 5px solid black;
 }
 
 .chart-container {
-  color:red;
-  border: 5px solid black;
+  color: red;
 }
